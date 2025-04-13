@@ -1,5 +1,4 @@
-# GitHub-fabric-cicd-sample to operationalize fabric-cicd to work with Microsoft Fabric and YAML Pipelines in Azure DevOps
-
+# GitHub-fabric-cicd-sample to operationalize fabric-cicd to work with Microsoft Fabric and GitHub Actions
 Contains a GitHub workflow which can be used operationalize [fabric-cicd](https://github.com/microsoft/fabric-cicd) to work with Microsoft Fabric and GitHub Actions. Based on a blog post I published that shows how to [operationalize fabric-cicd to work with Microsoft Fabric and GitHub Actions](https://www.kevinrchant.com/2025/04/11/operationalize-fabric-cicd-to-work-with-microsoft-fabric-and-github-actions/).
 
 This repository caters for the scenario where all the values are constant.
